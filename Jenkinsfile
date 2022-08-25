@@ -6,7 +6,7 @@ pipeline {
    
      stage('Install Dependencies') { 
         steps { 
-           sh 'esho Innstalling' 
+           sh 'echo Innstalling' 
         }
      }
      
